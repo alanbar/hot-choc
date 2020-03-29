@@ -5,6 +5,7 @@
 </script>
 
 <h1>Hot Chocolate</h1>
+<h3>with Github</h3>
 
 <label>
 	Name:
@@ -27,3 +28,4 @@
 		... looking really good
 	{/if}
 {/if}
+
