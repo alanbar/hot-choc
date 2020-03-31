@@ -6,7 +6,7 @@
 
 <h1>Hot Chocolate</h1>
 <h3>with Github</h3>
-<h5>clone github without .git</h5>
+<h5>clone without .git</h5>
 <label>
 	Name:
 	<input type="text" bind:value={name}>
